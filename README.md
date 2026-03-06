@@ -1,5 +1,8 @@
 # Analog Calculator
 
+<img src="Images/PCB1.jpeg" alt="Alt text" width="300" height="300">
+
+
 ## Summary
 In a world dominated by digital microprocessors, this project explores the principles of analog computing by designing and constructing a functional, purely analog calculator. The core of the system is built around LM358 operational amplifiers configured with specific feedback networks of resistors, capacitors, and diodes. The calculator operates as a parallel processing system where all calculations happen simultaneously based on variable DC voltage or AC signal inputs. The system operates on a dual-rail +/-15V or 30V power supply, establishing a true 0V ground reference to simplify the circuit designs and eliminate the need for a virtual ground.
 
